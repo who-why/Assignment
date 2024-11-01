@@ -1,7 +1,6 @@
 "use client";
 
 import React from 'react';
-import bg from '../Images/bg.png';
 import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
 import ImageSwiper from '@/components/ImageSwiper';
